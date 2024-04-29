@@ -1,0 +1,9 @@
+public class Random {
++ - *
++ * +
+void main(){
+"Hello World"
+"This is a great place"
+if else for 
+}
+}
